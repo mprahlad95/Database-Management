@@ -1,0 +1,14 @@
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\bin\Debug\Lab2_WFA1.exe
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\bin\Debug\Lab2_WFA1.pdb
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.calculator.resources
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.Properties.Resources.resources
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.csproj.GenerateResource.Cache
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.exe
+D:\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.pdb
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.exe
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.pdb
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\bin\Debug\Lab2_WFA1.exe
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\bin\Debug\Lab2_WFA1.pdb
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.calculator.resources
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.Properties.Resources.resources
+C:\Users\Plankton\Desktop\Kashish Grover\Lab 2\Lab2_WFA1\Lab2_WFA1\obj\x86\Debug\Lab2_WFA1.csproj.GenerateResource.Cache
