@@ -1,0 +1,2 @@
+C:\Users\Kashish\Dropbox\College\Semester 4\Labs\DBS Lab\Lab 4\Lab4\Lab4\obj\x86\Debug\Lab4.Properties.Resources.resources
+C:\Users\Kashish\Dropbox\College\Semester 4\Labs\DBS Lab\Lab 4\Lab4\Lab4\obj\x86\Debug\Lab4.csproj.GenerateResource.Cache
